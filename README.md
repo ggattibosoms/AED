@@ -1,2 +1,7 @@
-# AED-K1051
-Primer trabajo para la materia Algoritmo y Estructura de Datos. UTN - FRBA.
+## Algoritmo y estructura de Datos
+
++ K1051
++ 2023
++ 177.007-0
++ Gatti Bosoms
++ Guillermina Julieta
